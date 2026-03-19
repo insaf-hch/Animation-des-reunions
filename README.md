@@ -165,6 +165,7 @@ L'application sera accessible à l'adresse : `http://localhost:3000`
 | **Insaf Hammouchi** | Développeuse Frontend |
 | **Doha Maazouz** | Développeuse Backend |
 | **Fatima Ezzahra Rebbouh** | Responsable Documentation |
+| **Anass Bellagrid** | Testeur |
 
 *Encadré par :* **[Nom de l'encadrant]** — Enseignant, ESTSB
 
